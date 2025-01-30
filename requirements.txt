@@ -1,0 +1,9 @@
+aiogram == 3.17.0
+bs4
+lxml
+aiohttp
+requests
+sqlalchemy
+aiosqlite
+pandas
+python-dotenv
